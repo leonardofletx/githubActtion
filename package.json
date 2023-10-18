@@ -1,0 +1,17 @@
+{
+  "name": "githubacttion",
+  "version": "1.0.0",
+  "description": "Plataforma de automatizacion que nos permite crear flujos de trabajo de codigo personalizado dentro de nuestros equipos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+  
+}
