@@ -45,3 +45,8 @@ herramienta de github que nos permite automatizar los procesos de CI/CD de maner
 
 - runner : Un Runner es el servidor donde se ejecutan nuestros workflows. GitHub proporciona runners que tienen diferentes sistemas operativos: Ubuntu, Windows o MacOS.
 
+diferentes action que se peuden inorporar se encuentran en este enlace https://github.com/marketplace?type=
+
+# Costos
+
+El uso de github actions en repositorios publicos no tiene ningun costo, mientras que en repositorios privados estan contemplados en este archivo https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions 
